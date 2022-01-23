@@ -5,7 +5,7 @@ Provides a health status management for multiple applications with health check 
 2. Java 11
 ## How To Run
 
-###Steps to build and run
+### Steps to build and run
 1. `mvn clean install`
 2. `mvn spring-boot:run`
 ### Optional docker run
