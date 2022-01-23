@@ -1,7 +1,7 @@
 # Healthcenter
 Provides a health status management for multiple applications with health check URL
 
-#Features
+# Features
 Register new applications with name and health check URL<br>
 Monitor status of the applications with manual trigger or customised time interval checks<br>
 Deregister the application
