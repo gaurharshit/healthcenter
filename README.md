@@ -1,5 +1,11 @@
 # Healthcenter
 Provides a health status management for multiple applications with health check URL
+
+#Features
+Register new applications with name and health check URL<br>
+Monitor status of the applications with manual trigger or customised time interval checks<br>
+Deregister the application
+
 ## Prerequisite
 1. Maven 3.5.3 or above
 2. Java 11
@@ -18,3 +24,7 @@ GUI should be accessible at http://localhost:8080
 ### H2 database GUI
 H2 database is manually started at port 8081
 H2 database should be accessible at http://localhost:8081
+#### Login Details
+JDBC URL: jdbc:h2:file:./health-center <br>
+User Name: sa <br>
+Password: password <br>
